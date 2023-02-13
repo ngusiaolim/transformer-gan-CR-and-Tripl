@@ -1,0 +1,93 @@
+absl-py==0.15.0
+accelerate==0.12.0
+aiohttp==3.7.4
+asttokens==2.1.0
+astunparse==1.6.3
+async-timeout==3.0.1
+attrs==20.2.0
+backcall==0.2.0
+brotlipy==0.7.0
+cachetools==5.2.0
+certifi==2020.6.20
+cffi @ file:///tmp/abs_98z5h56wf8/croots/recipe/cffi_1659598650955/work
+chardet==3.0.4
+charset-normalizer==2.0.12
+cosine-annealing-warmup @ git+https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup@2958117072f214dce743f918d6a2253f682ab65d
+cryptography @ file:///croot/cryptography_1665612644927/work
+decorator==5.1.1
+einops @ file:///home/conda/feedstock_root/build_artifacts/einops_1646391317704/work
+executing==1.2.0
+flatbuffers==1.12
+future==0.18.2
+gast==0.4.0
+google-auth==2.14.1
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.34.1
+h5py==3.1.0
+idna @ file:///croot/idna_1666125576474/work
+imageio @ file:///tmp/abs_cd920173-f360-47c5-97b0-bf4d1076d5d4dvic0oys/croots/recipe/imageio_1658785036907/work
+importlib-metadata==5.0.0
+ipdb==0.13.9
+ipython==8.6.0
+jedi==0.18.2
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing==1.1.2
+Markdown==3.4.1
+MarkupSafe==2.1.1
+matplotlib-inline==0.1.6
+mkl-fft==1.3.1
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626186064646/work
+mkl-service==2.4.0
+-e git+https://github.com/SwinTransformer/Video-Swin-Transformer.git@db018fb8896251711791386bbd2127562fd8d6a6#egg=mmaction2
+multidict==4.7.6
+numpy @ file:///croot/numpy_and_numpy_base_1668593735768/work
+nvidia-ml-py==11.515.75
+nvitop @ git+https://github.com/XuehaiPan/nvitop.git@70f25ef3601874f8c0227eb9b6b785fea3f53fdc
+oauthlib==3.2.2
+opencv-python==4.6.0.66
+opt-einsum==3.3.0
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==9.2.0
+prompt-toolkit==3.0.33
+protobuf==3.12.2
+psutil==5.9.4
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodome==3.9.8
+PyExecJS==1.5.1
+Pygments==2.13.0
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+requests==2.26.0
+requests-oauthlib==1.3.1
+rsa==4.9
+scipy==1.9.3
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+stack-data==0.6.1
+tensorboard==2.11.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorboardX==1.6
+tensorflow-estimator==2.5.0
+tensorflow-gpu==2.5.0
+termcolor==1.1.0
+toml==0.10.2
+torch @ file:///home/conda/feedstock_root/build_artifacts/pytorch-recipe_1633269146364/work
+torchaudio==0.9.0a0+a85b239
+torchvision @ file:///home/conda/feedstock_root/build_artifacts/torchvision-split_1632782766648/work
+tqdm==4.29.1
+traitlets==5.5.0
+typing_extensions @ file:///tmp/abs_ben9emwtky/croots/recipe/typing_extensions_1659638822008/work
+urllib3==1.26.5
+wcwidth==0.2.5
+Werkzeug==2.2.2
+wrapt==1.12.1
+yarl==1.5.1
+zipp==3.10.0
